@@ -26,7 +26,7 @@ skel.init({
 			containers: 1200
 		},
 		'1000px': {
-			range: '481-1200',
+			range: '0-1200',
 			containers: 960
 		}
 	}
