@@ -13,7 +13,7 @@ skel.init({
 	},
 	breakpoints: {
 		'mobile': {
-			range: '-1',
+			range: '-480',
 			lockViewport: true,
 			containers: 'fluid',
 			grid: {
@@ -34,7 +34,7 @@ skel.init({
 	panels: {
 		panels: {
 			navPanel: {
-				breakpoints: 'mobile',
+				/* breakpoints: 'mobile', */ 
 				position: 'left',
 				style: 'reveal',
 				size: '80%',
