@@ -169,6 +169,8 @@
 		.button
 		{
 			position: relative;
+			top:50%; 
+    l			left:50%;
 			display: inline-block;
 			margin-top: 0.1em;
 			padding: 0.8em 1.5em;
