@@ -174,7 +174,7 @@
 			display: inline-block;
 			margin-top: 0.1em;
 			padding: 0.8em 1.5em;
-			background: #2B4F81;
+			background: #000000;
 			border-radius: 6px;
 			text-decoration: none;
 			text-transform: uppercase;
@@ -190,7 +190,7 @@
 
 			.button:hover
 			{
-				background: #2B4F81;
+				background: #000000;
 				color: #FFF !important;
 			}
 
