@@ -22,7 +22,7 @@ skel.init({
 			}
 		},*/
 		'desktop': {
-			range: '481-',
+			range: '0-',
 			containers: 1200
 		},
 		'1000px': {
